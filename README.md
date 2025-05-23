@@ -52,7 +52,7 @@ An AI-powered chat application with a plugin-style architecture. Users can inter
 
 1. **Clone the Repository**
 
-   git clone https://github.com/yourusername/AIChat.git
+   git clone https://github.com/yourusername/AiChat.git
    cd AIChat
 
 2. **Install Dependencies**
